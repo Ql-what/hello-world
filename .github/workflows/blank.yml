@@ -1,6 +1,0 @@
-def calculate_average_mark(student: Dict) -> float:
-    student = {
-      "mark":[]
-    }
-
-    return calculate_average_mark
